@@ -1,6 +1,7 @@
 
-# Encoded by ZUYAN
-# GitHub: https://github.com/ZUYANx
+# Encoded by SABIT
+# FOLLOW ME 
+# OR FUCK YOU 
 
 import marshal, base64, hashlib
 
